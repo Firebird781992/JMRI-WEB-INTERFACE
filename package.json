@@ -1,0 +1,25 @@
+{
+  "name": "jmro-web-interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firebird781992/JMRI-WEB-INTERFACE.git"
+  },
+  "author": "Jay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Firebird781992/JMRI-WEB-INTERFACE/issues"
+  },
+  "homepage": "https://github.com/Firebird781992/JMRI-WEB-INTERFACE#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
